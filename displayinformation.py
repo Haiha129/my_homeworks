@@ -1,0 +1,5 @@
+student_name= input('xin moi nhap ho va ten ')
+date_of_birth= input('xin moi nhap ngay sinh ')
+student_address= input('moi nhap dia chi ')
+purpose= input('muc dich cua ban khi tham gia khoa hoc la gi ')
+print(" ho va ten: {} \n ngay sinh: {} \n dia chi: {} \n muc dich tham gia khoa hoc: {}".format(student_name, date_of_birth, student_address, purpose))
